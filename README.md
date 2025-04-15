@@ -15,7 +15,7 @@ This project performs an exploratory data analysis (EDA) on the Teco Telecom cus
 ## Environment Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Varun-agrawal03/TCA_analysis
+   git clone https://github.com/Varun-agrawal03/TCA_analysis.git
    cd TCA_analysis
    ```
 2. **Create and activate a Conda environment**
