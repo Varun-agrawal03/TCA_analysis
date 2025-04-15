@@ -15,8 +15,8 @@ This project performs an exploratory data analysis (EDA) on the Teco Telecom cus
 ## Environment Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/teco-churn-analysis.git
-   cd teco-churn-analysis
+   git clone https://github.com/Varun-agrawal03/TCA_analysis
+   cd TCA_analysis
    ```
 2. **Create and activate a Conda environment**
    ```bash
@@ -33,7 +33,7 @@ This project performs an exploratory data analysis (EDA) on the Teco Telecom cus
    ```bash
    jupyter notebook
    ```
-2. **Open** `Teco_Customer_Churn_Analysis.ipynb` and run all cells.
+2. **Open** `TCA.ipynb` and run all cells.
 
 ## Key Findings
 - **Contract Type:** Month-to-month contracts have a 42% churn rate vs. 11% (1-year) and 3% (2-year).
@@ -52,9 +52,9 @@ This project performs an exploratory data analysis (EDA) on the Teco Telecom cus
 ## Repository Structure
 ```
 ├── data/
-│   └── teco_customer_data.csv
+│   └── Customer Churn.csv
 ├── notebooks/
-│   └── Teco_Customer_Churn_Analysis.ipynb
+│   └── TCA.ipynb
 ├── requirements.txt
 └── README.md
 ```
